@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "26565941-fa33-4fab-9436-c3d97dba9dff",
+            "Value": {
+                "id": "66fc8ae8-bcda-4c49-8f6b-5d32285f1789",
+                "resourcePath": "datafiles_yy\\SourceHanSansCN-Normal.otf.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "26b8b367-c28f-46d7-b6fe-8ed4e2223fcf",
             "Value": {
                 "id": "b512a28e-01bd-4e7c-bf6d-45a1efe2ca26",
@@ -95,6 +103,14 @@
             }
         },
         {
+            "Key": "8071c373-d1f1-4c11-b123-fc83d4139b59",
+            "Value": {
+                "id": "5c05cfc7-caf0-40aa-af0c-2d28144faf1a",
+                "resourcePath": "rooms\\rm_start\\rm_start.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "84f23fd0-b1a5-4adf-9fb6-55d0fe6d01d3",
             "Value": {
                 "id": "2bb4c360-ce4d-45d1-af86-1750f74e8b60",
@@ -127,6 +143,14 @@
             }
         },
         {
+            "Key": "a850b876-2089-459c-9b8e-bf4b3d89ca05",
+            "Value": {
+                "id": "a27a6914-4ab9-42ea-bcd7-8a3aad8f77a3",
+                "resourcePath": "fonts\\HanSans_12\\HanSans_12.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "bc4cbd9c-b664-48c4-9460-7d66fdfeaab7",
@@ -140,6 +164,14 @@
                 "id": "eeb44c7c-9d6e-412f-aa3c-ba0881a657a7",
                 "resourcePath": "views\\ac3e23b4-8227-4255-924b-d5dde9c992d0.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b5881ac6-035c-4581-9a97-6cf56b4000ee",
+            "Value": {
+                "id": "30bfc40c-494d-4653-be74-f510b8cab622",
+                "resourcePath": "objects\\GUIController\\GUIController.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -164,6 +196,14 @@
                 "id": "5afd07e0-1422-4709-9071-b371b481bb34",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "e6c088e3-74ee-4669-aa9b-5d22b9a9a7e1",
+            "Value": {
+                "id": "f73ea208-0ad9-4997-acae-29ce62e66f86",
+                "resourcePath": "objects\\textControll\\textControll.yy",
+                "resourceType": "GMObject"
             }
         },
         {
